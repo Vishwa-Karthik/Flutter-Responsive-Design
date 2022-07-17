@@ -1,16 +1,19 @@
-# flutter_responsive_design
+# Responsive Design 
 
-A new Flutter project.
+A simple approach to handle responsive UI layout.
 
-## Getting Started
+## Design
+1. Phone UI Design
+<p>
+<img src="https://github.com/Vishwa-Karthik/Flutter-Responsive-Design/blob/master/phone.jpg" width=250 height=500 />
+</p>
 
-This project is a starting point for a Flutter application.
+2. Tablet UI Design
+<p>
+<img src="https://github.com/Vishwa-Karthik/Flutter-Responsive-Design/blob/master/tablet.jpg" width=700 height=500 />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Desktop UI Design
+<p>
+<img src="https://github.com/Vishwa-Karthik/Flutter-Responsive-Design/blob/master/desktop.jpg" width=900 height=500 />
+</p>
